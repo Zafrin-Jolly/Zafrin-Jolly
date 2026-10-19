@@ -55,13 +55,13 @@ My research focuses on applying machine learning and deep learning techniques to
 
 ## 💻 Featured Projects
 
-### 🩺 Breast Cancer Classification
+### 📚 Fiction Book Recommendation System
 
-A machine learning project using the Wisconsin Diagnostic Breast Cancer dataset to explore data preprocessing, exploratory data analysis, classification, and model evaluation.
+A recommendation system project using Amazon book ratings and metadata to explore data preprocessing, exploratory analysis, association-rule mining, and Autoencoder-based collaborative filtering.
 
-**Focus areas:** EDA, classification, confusion matrix, ROC-AUC, and reproducible ML workflows.
+**Focus areas:** Data cleaning, fuzzy title matching, sparse user–item matrices, Apriori, deep learning, and model evaluation.
 
-🔗 [View Project Repository](https://github.com/Zafrin-Jolly/ml-project-workflow)
+🔗 [View Project Repository]([https://github.com/Zafrin-Jolly/ml-project-workflow](https://github.com/Zafrin-Jolly/BHTRecommenderProject))
 
 ### 🧬 Snake Venom Protein Classification
 
