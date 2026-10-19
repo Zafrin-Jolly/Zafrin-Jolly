@@ -2,13 +2,11 @@
 
 ### MSc Data Science Student | Independent Researcher | Data Analyst
 
-![Profile Banner](assets/profile-banner.png)
-
 I’m pursuing an MSc in **Data Science at Berliner Hochschule für Technik (BHT), Germany**, with a background in Computer Science and Engineering.
 
 My research interests include **machine learning, medical image analysis, deep learning, and time-series forecasting**. I have contributed to three publications covering brain tumor detection, lung cancer detection in digital pathology, and flood forecasting in Bangladesh.
 
-With experience in research support, data analysis, and fintech, I enjoy combining analytical thinking and programming to explore data, develop machine learning solutions, and investigate real-world problems.
+With experience in research support, data analysis for fintech, I enjoy combining analytical thinking and programming to explore data, develop machine learning solutions, and investigate real-world problems.
 
 - 🎓 **Education:** MSc Data Science, BHT, Germany
 - 🔬 **Research Interests:** Machine Learning, Medical AI, Computer Vision, Time-Series Forecasting
@@ -37,7 +35,6 @@ With experience in research support, data analysis, and fintech, I enjoy combini
 **Visualization & Tools**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -97,13 +94,12 @@ A time-series forecasting study comparing statistical and forecasting approaches
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zafrin-Jolly&layout=compact&hide_border=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Zafrin-Jolly&hide_border=true&theme=default)
 
 ---
 
 ## 🤝 Connect with Me
 
-I'm interested in connecting with researchers, data scientists, and AI practitioners working on machine learning, medical AI, and data-driven solutions.
+I'm interested in connecting and collaborating with researchers, data scientists, and AI practitioners working on machine learning, medical AI, and data-driven solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafrin-sultana-95b2701b8/)
 
