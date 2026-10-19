@@ -61,7 +61,7 @@ A recommendation system project using Amazon book ratings and metadata to explor
 
 **Focus areas:** Data cleaning, fuzzy title matching, sparse user–item matrices, Apriori, deep learning, and model evaluation.
 
-🔗 [View Project Repository]([https://github.com/Zafrin-Jolly/ml-project-workflow](https://github.com/Zafrin-Jolly/BHTRecommenderProject))
+🔗 [View Project Repository](https://github.com/Zafrin-Jolly/BHTRecommenderProject)
 
 ### 🧬 Snake Venom Protein Classification
 
